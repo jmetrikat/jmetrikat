@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**jmetrikat/jmetrikat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img
+  alt="Night Coding"
+  src="https://user-images.githubusercontent.com/120120832/231229745-64c9cd3d-b8c6-47b9-ab32-df0235634cdb.gif"
+  align="right"
+  width="210"
+/>
 
-Here are some ideas to get you started:
+- 💡 I have a passion for exploring new technologies, developing software solutions and experimenting with Linux.
+- 🎓 Currently studying IT-Systems Engineering at Hasso-Plattner-Institute.
+- 🌱 I am dedicated to expanding my skill set and continuously learning.
+- 📫 You can reach me via [email](mailto:jannis.metrikat@student.hpi.de).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<div align="center">
+    <img
+        alt="GitHub Stats"
+        src="https://raw.githubusercontent.com/jmetrikat/github-stats/master/generated/overview.svg#gh-light-mode-only"
+    />
+    <img
+        alt="Language Stats"
+        src="https://raw.githubusercontent.com/jmetrikat/github-stats/master/generated/languages.svg#gh-light-mode-only"
+    />
+  <img
+        alt="GitHub Stats"
+        src="https://raw.githubusercontent.com/jmetrikat/github-stats/master/generated/overview.svg#gh-dark-mode-only"
+    />
+    <img
+        alt="Language Stats"
+        src="https://raw.githubusercontent.com/jmetrikat/github-stats/master/generated/languages.svg#gh-dark-mode-only"
+    />
+</div>
