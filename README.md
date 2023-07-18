@@ -7,8 +7,8 @@
   width="210"
 />
 
-- 💡 I have a passion for exploring new technologies, developing software solutions and experimenting with Linux.
-- 🎓 Currently studying IT-Systems Engineering at Hasso-Plattner-Institute.
+- 💡 I have a passion for exploring new technologies and developing software solutions.
+- 🎓 Currently studying IT-Systems Engineering at [Hasso Plattner Institute](https://hpi.de/).
 - 🌱 I am dedicated to expanding my skill set and continuously learning.
 - 📫 You can reach me via [email](mailto:jannis.metrikat@student.hpi.de).
 
