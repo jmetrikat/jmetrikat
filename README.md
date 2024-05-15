@@ -10,9 +10,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jannis%20Metrikat-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jmetrikat/)
 [![Mail Badge](https://img.shields.io/badge/-jannis.metrikat%40student.hpi.de-D14836?style=flat-square&logo=GMail&logoColor=white)](mailto:jannis.metrikat@student.hpi.de)
 
-- 💡 I enjoy creating software solutions and exploring new technologies.
-- 🎓 Studying IT-Systems Engineering at [Hasso Plattner Institute](https://hpi.de/).
-- 🌱 Dedicated to expanding my skill set and continuously learning.
+- 💡 Build great product.
+- 🎓 IT-Systems Engineering at [Hasso Plattner Institute](https://hpi.de/das-hpi/uebersicht.html).
+- 🌱 Product & Engineering at [Anytype](https://anytype.io/).
 
 <br />
 
@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-  <img
+    <img
         alt="GitHub Stats"
         src="https://raw.githubusercontent.com/jmetrikat/github-stats/master/generated/overview.svg#gh-dark-mode-only"
     />
