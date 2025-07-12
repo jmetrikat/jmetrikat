@@ -11,8 +11,8 @@
 [![Mail Badge](https://img.shields.io/badge/-jannis.metrikat%40student.hpi.de-D14836?style=flat-square&logo=GMail&logoColor=white)](mailto:jannis.metrikat@student.hpi.de)
 
 - 💡 Build great product.
-- 🎓 IT-Systems Engineering at [Hasso Plattner Institute](https://hpi.de/das-hpi/uebersicht.html).
-- 🌱 Product & Engineering at [Anytype](https://anytype.io/).
+- 🎓 Computer Science at [Hasso Plattner Institute](https://hpi.de/das-hpi/uebersicht.html).
+- 🌱 Engineering at [Anytype](https://anytype.io/).
 
 <br />
 
